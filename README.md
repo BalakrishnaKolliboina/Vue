@@ -1,4 +1,4 @@
-# spa
+# Vue Example
 
 > A Vue.js project
 
